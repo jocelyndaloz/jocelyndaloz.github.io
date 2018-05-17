@@ -1,5 +1,3 @@
-# Jocelyn Daloz
-
 Mettre une biographie
 
 ## CV
