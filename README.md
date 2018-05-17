@@ -5,7 +5,7 @@ Mettre une biographie
 
 ## Publications
 
-![Nouvelles et histoires courtes](/Nouvelles et histoires courtes.md)
+
 
 ### Publications littéraires
 
