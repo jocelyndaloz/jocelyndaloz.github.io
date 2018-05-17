@@ -1,16 +1,27 @@
-## Jocelyn Daloz
+# Jocelyn Daloz
 
 Mettre une biographie
 
+## CV
 
-### Publications
+## Publications
 
-Recueil de nouvelles
+### Publications littéraires
 
-# Les pérégrinations de Jonasz Lyodec
-# Le Regard
-# La lumière blanche
-# United We Stand
-# Mémoire
+#### Les pérégrinations de Jonasz Lyodec
 
-# Projets
+#### Le Regard
+
+#### La lumière blanche
+
+### Publications académiques
+
+#### Travail de Bachelor
+
+#### Mémoire
+
+## Projets
+
+## Sites Web
+
+
