@@ -8,7 +8,7 @@ Mettre une biographie
 
 #### Les pérégrinations de Monsieur Jonasz Lyodec
 
-
+![Les pérégrinations de Monsieur Jonasz Lyodec](http://url/to/807407_LCL_C14.pdf)
 
 J’erre dans la gare déserte. Il est minuit passé. Les derniers trains sont partis. Les quais et les voies, illuminés partiellement, se perdent dans le noir.
 Je me contemple dans les vitrines vides des magasins de gare, y vois un reflet pâle ; les contours de mon corps sont déformés par la perspective et l’éclairage qui dérange le miroir.
