@@ -8,7 +8,7 @@ Mettre une biographie
 
 #### Les pérégrinations de Monsieur Jonasz Lyodec
 
-![Les Pérégrinations de Monsieur Jonasz Lyodec](807407_LCL_C14.jpg)
+
 
 J’erre dans la gare déserte. Il est minuit passé. Les derniers trains sont partis. Les quais et les voies, illuminés partiellement, se perdent dans le noir.
 Je me contemple dans les vitrines vides des magasins de gare, y vois un reflet pâle ; les contours de mon corps sont déformés par la perspective et l’éclairage qui dérange le miroir.
@@ -17,7 +17,9 @@ Mais c’est souvent ce genre de profusion qui me déprime. Mélancolique par 
 
 Commander sur: 
 www.edilivre.com
+
 https://livre.fnac.com/a10254750/Jocelyn-Daloz-Les-peregrinations-de-Monsieur-Jonasz-Lyodec?omnsearchpos=1
+
 https://www.amazon.fr/P%C3%A9r%C3%A9grinations-Monsieur-Jonasz-Lyodec/dp/2334234451/ref=sr_1_1?ie=UTF8&qid=1526545629&sr=8-1&keywords=jocelyn+daloz
 
 #### Le Regard
